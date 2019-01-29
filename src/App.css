@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Sarabun');
+
+body {
+  font-family: 'Sarabun', sans-serif;
+}
+
+.button {
+  background-color: #008CBA; 
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid black;
+}
+
+
+.input[type=text], select {
+  width: 100%;
+  max-width: 500px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#ShoppingCart{
+  margin: 20px;
+  padding: 20px;
+  border-radius: 4px;
+  background-color:#F7F7F7;
+}
+
+
